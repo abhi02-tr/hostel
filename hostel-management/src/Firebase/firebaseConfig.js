@@ -3,13 +3,13 @@ import { getAuth } from "firebase/auth";
 import { getFirestore } from 'firebase/firestore'
 
 const firebaseConfig = {
-    apiKey: "AIzaSyCg97OvCI8g-1UML7WY5IZxG5soLsuo-ow",
-    authDomain: "test-181df.firebaseapp.com",
-    databaseURL: "https://test-181df.firebaseio.com",
-    projectId: "test-181df",
-    storageBucket: "test-181df.appspot.com",
-    messagingSenderId: "393349419767",
-    appId: "1:393349419767:web:26959b59641a32fd3db9f2",
+    apiKey: "AIzaSyDySb-Ch7-vUgi1JO6lZEasaLY_8ATl2LQ",
+    authDomain: "adit-hostel.firebaseapp.com",
+    databaseURL: "https://adit-hostel.firebaseio.com",
+    projectId: "adit-hostel",
+    storageBucket: "adit-hostel.appspot.com",
+    messagingSenderId: "409626188601",
+    appId: "1:409626188601:web:b495d574eb97c627b6e6e8",
 };
 
 // Initialize Firebase
